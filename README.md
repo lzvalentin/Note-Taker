@@ -2,7 +2,7 @@
 
 ## Description
 
-Want to create notes? This web application will have you input a note and save the notes. 
+Want to create notes? This web application will have you input a note and save the notes. While being able to create and save a note you are also capable of deleting by clicking the trash can icon.  
 
 Deployed site: https://lzvalentin.github.io/Note-Taker/
 
@@ -10,6 +10,9 @@ Deployed site: https://lzvalentin.github.io/Note-Taker/
 
  * [Installation](#installation)
  * [Usage](#usage)
+ * [License](#license)
+ * [Badges](#badges)
+ * [Questions](#questions)
  
 
  ## Installation 
@@ -17,6 +20,7 @@ Deployed site: https://lzvalentin.github.io/Note-Taker/
  1. Clone repo. https://github.com/lzvalentin/Note-Taker
  2. `npm i`
 
+![notegif](./public/assets/notetaker.gif)
  ## Usage 
  ```
 AS A small business owner
@@ -39,3 +43,14 @@ THEN that note appears in the right-hand column
 WHEN I click on the Write icon in the navigation at the top of the page
 THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column
 ```
+
+## License
+
+None.
+
+## Badges
+
+![badges](https://img.shields.io/badge/Language-JavaScript-red)
+
+## Questions
+Reach out to me through [Github](www.github.com/lzvalentin) .
