@@ -4,7 +4,7 @@
 
 Want to create notes? This web application will have you input a note and save the notes. 
 
-Deployed site: 
+Deployed site: https://lzvalentin.github.io/Note-Taker/
 
 ## Table of Contents
 
