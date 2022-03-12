@@ -4,7 +4,7 @@
 
 Want to create notes? This web application will have you input a note and save the notes. While being able to create and save a note you are also capable of deleting by clicking the trash can icon.  
 
-Deployed site: https://lzvalentin.github.io/Note-Taker/
+Deployed site: https://note-hw-taker.herokuapp.com/
 
 ## Table of Contents
 
